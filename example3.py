@@ -36,4 +36,4 @@ print( cats.zeroMyHero("green"))
 print( cats.black )
 print( cats.tabby)
 
-print( black)
+print(black)
